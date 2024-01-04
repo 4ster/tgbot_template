@@ -26,7 +26,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [4ster/tgbot_template](https://github.com/4ster/tgbot_template)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|6<br/>Tools used|11/26/23 <br/>Report generated|
+|6<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -79,8 +79,8 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[aioredis](https://pypi.org/aioredis)|v2.0|12/12/22|Kostiantyn Kriuchkov |MIT|N/A|
-|[environs](https://pypi.org/environs)|N/A|01/15/22|Kostiantyn Kriuchkov |MIT|N/A|
+|[aioredis](https://pypi.org/project/aioredis)|v2.0|12/12/22|Kostiantyn Kriuchkov |MIT|N/A|
+|[environs](https://pypi.org/project/environs)|N/A|01/15/22|Kostiantyn Kriuchkov |MIT|N/A|
 
 <br/>
 <div align='center'>
